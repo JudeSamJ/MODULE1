@@ -1,6 +1,6 @@
 # Ex.No2
 # Ex.Name:Write a C++ program to find the square root of a number using friend function. (use math header file)
-## Date:17/3/25
+## Date:7/8/25
 
 ## Aim:
 Write a C++ program to find the square root of a number using friend function. (use math header file)
